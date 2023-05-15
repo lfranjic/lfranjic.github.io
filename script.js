@@ -52,10 +52,10 @@ function resetSize(){
     document.getElementById('team').style.height="240px";
     document.getElementById('positions').style.width="300px";
     document.getElementById('positions').style.height="240px";
-    document.getElementById('mario').style.width="300px";
-    document.getElementById('mario').style.height="240px";
-    document.getElementById('leo').style.width="300px";
-    document.getElementById('leo').style.height="240px";
+    document.getElementById('mario').style.width="200px";
+    document.getElementById('mario').style.height="266px";
+    document.getElementById('leo').style.width="200px";
+    document.getElementById('leo').style.height="266px";
 }
 
 function showMario()
